@@ -1,6 +1,5 @@
-<h1 align="center">Gigabaite Tecnologia</h1>
-<h1 align="center">WhaTicket by Gigabaite</h1> 
-<h1 align="center">Sistema de tickets completo baseado em mensagens do WhatsApp</h1> 
+<h1 align="center">WhaTicket by Gigabaite Tecnologia</h1> 
+<h2 align="center">Sistema de tickets completo baseado em mensagens do WhatsApp com multiatendimento e integração com Chat GPT</h2> 
 
 
 ## Instruções de Instalação
@@ -24,8 +23,8 @@ cd && cd ./install && sudo ./install_instancia
 - Subdominio para API
 - E-mail válido para certificação SSL
 
-## Suporte Premium e Personalizações
+## Suporte e Personalizações
 
-    Gigabaite Tecnologia
+Gigabaite Tecnologia
 
-    https://www.gigabaite.com.br
+ https://www.gigabaite.com.br
