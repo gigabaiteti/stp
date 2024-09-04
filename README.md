@@ -26,4 +26,4 @@ cd && cd ./install && sudo ./install_instancia
 
 Gigabaite Tecnologia
 
- https://www.gigabaite.com.br
+https://www.gigabaite.com.br
