@@ -1,7 +1,6 @@
 <h1 align="center">WhaTicket by Gigabaite Tecnologia</h1> 
 <h2 align="center">Sistema de tickets completo baseado em mensagens do WhatsApp com multiatendimento e integração com Chat GPT</h2> 
 
-
 ## Instruções de Instalação
 
 Primeira instalação:
