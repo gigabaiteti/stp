@@ -21,18 +21,20 @@ print_banner() {
 
   printf "\n\n"
 
-printf "${CYAN_LIGHT}";
+  printf "${CYAN_LIGHT}";
 
 
-printf ${CYAN_LIGHT}"  ####   #   ####     ##    #####     ##    #  #####  ###### \n";  
-printf ${CYAN_LIGHT}" #    #  #  #    #   #  #   #    #   #  #   #    #    #      \n"; 
-printf ${CYAN_LIGHT}" #       #  #       #    #  #####   #    #  #    #    #####  \n";
-printf ${CYAN_LIGHT}" #  ###  #  #  ###  ######  #    #  ######  #    #    #      \n";
-printf ${CYAN_LIGHT}" #    #  #  #    #  #    #  #    #  #    #  #    #    #      \n";
-printf ${CYAN_LIGHT}"  ####   #   ####   #    #  #####   #    #  #    #    ###### \n";
-                                                                                                                                                         
-  printf "            \033[1;33m        © Gigabaite Tecnologia - https://www.gigabaite.com.br";
+  printf ${CYAN_LIGHT}"  ####   #   ####     ##    #####     ##    #  #####  ###### \n";  
+  printf ${CYAN_LIGHT}" #    #  #  #    #   #  #   #    #   #  #   #    #    #      \n"; 
+  printf ${CYAN_LIGHT}" #       #  #       #    #  #####   #    #  #    #    #####  \n";
+  printf ${CYAN_LIGHT}" #  ###  #  #  ###  ######  #    #  ######  #    #    #      \n";
+  printf ${CYAN_LIGHT}" #    #  #  #    #  #    #  #    #  #    #  #    #    #      \n";
+  printf ${CYAN_LIGHT}"  ####   #   ####   #    #  #####   #    #  #    #    ###### \n\n";
+
+  printf ${CYAN_LIGHT}" WhaTicket by Gigabaite Tecnologia - https://www.gigabaite.com.br \n\n";
+
   printf "${NC}";
 
   printf "\n"
+
 }
